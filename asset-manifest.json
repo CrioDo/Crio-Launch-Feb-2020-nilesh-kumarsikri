@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/css/main.5db1380d.chunk.css",
+    "main.js": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/main.2cad47da.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/main.2cad47da.chunk.js.map",
+    "runtime-main.js": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/runtime-main.6db8da39.js",
+    "runtime-main.js.map": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/runtime-main.6db8da39.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.d4850206.chunk.js": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/2.d4850206.chunk.js",
+    "static/js/2.d4850206.chunk.js.map": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/2.d4850206.chunk.js.map",
+    "index.html": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/index.html",
+    "precache-manifest.ad13feaa72d9ea11f7f8cc97f446682d.js": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/precache-manifest.ad13feaa72d9ea11f7f8cc97f446682d.js",
+    "service-worker.js": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.d4850206.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/js/2.d4850206.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-nilesh-kumarsikri/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db8da39.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.d4850206.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.2cad47da.chunk.js"
+  ]
+}
